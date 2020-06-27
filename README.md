@@ -10,6 +10,8 @@ If you'd like to contribute, help me close issues.
 
 #### Resulting image looks something like this:
 
+![Alt text](/img.png?raw=true 'Title')
+
 ### Initial Set Up
 
 1. Clone the repository
